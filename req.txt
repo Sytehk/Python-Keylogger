@@ -1,0 +1,6 @@
+mss
+pynput
+essential_generators
+python-xlib
+six
+pywin32
